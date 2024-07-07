@@ -10,3 +10,7 @@ I implemented a function loadCartItems to load the cart items from storage when 
 
 ### Updating Cart Items
 When the user removes an item from the cart, I update the cart items in storage using the AsyncStorage.setItem method.
+
+## Screenshots
+![345081996-88b5bc55-a621-4b21-8b88-38cbf4d2f94e](https://github.com/AdamsDawood/rn-assignment6-11094101/assets/172335697/9ea5985d-edb1-4ec6-bd4b-e2a5fdd4ecc3)
+![345082113-d3c41829-90b0-458a-a408-1b193e842733](https://github.com/AdamsDawood/rn-assignment6-11094101/assets/172335697/955d406d-7477-47e2-8107-762bc41b1fac)
